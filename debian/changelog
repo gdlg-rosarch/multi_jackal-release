@@ -1,0 +1,14 @@
+ros-kinetic-multi-jackal-description (0.0.2-0jessie) jessie; urgency=high
+
+  * added nav_msgs dependency
+  * Contributors: Nick Sullivan
+
+ -- Nick Sullivan <nick.dave.sullivan@gmail.com>  Sun, 11 Feb 2018 13:30:00 -0000
+
+ros-kinetic-multi-jackal-description (0.0.1-0jessie) jessie; urgency=high
+
+  * Contributors: Nick Sullivan
+
+ -- Nick Sullivan <nick.dave.sullivan@gmail.com>  Tue, 06 Feb 2018 13:30:00 -0000
+
+
