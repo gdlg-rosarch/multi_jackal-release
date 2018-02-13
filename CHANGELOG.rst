@@ -2,6 +2,11 @@
 Changelog for package multi_jackal_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2018-02-13)
+------------------
+* licensing, URL's, tutorials updated
+* Contributors: Nick Sullivan
+
 0.0.2 (2018-02-12)
 ------------------
 
