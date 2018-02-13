@@ -1,0 +1,12 @@
+Source: ros-kinetic-multi-jackal-description
+Section: misc
+Priority: extra
+Maintainer: Nick Sullivan <nick.dave.sullivan@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-gazebo-ros, ros-kinetic-lms1xx, ros-kinetic-nav-msgs, ros-kinetic-pointgrey-camera-description, ros-kinetic-pointgrey-camera-driver, ros-kinetic-robot-state-publisher, ros-kinetic-roslaunch, ros-kinetic-tf, ros-kinetic-urdf, ros-kinetic-xacro
+Homepage: http://ros.org/wiki/multi_jackal_description
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-multi-jackal-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-gazebo-ros, ros-kinetic-lms1xx, ros-kinetic-nav-msgs, ros-kinetic-pointgrey-camera-description, ros-kinetic-pointgrey-camera-driver, ros-kinetic-robot-state-publisher, ros-kinetic-tf, ros-kinetic-urdf, ros-kinetic-xacro
+Description: Spawns the Jackal model.
