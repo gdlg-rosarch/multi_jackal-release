@@ -1,3 +1,31 @@
+## multi_jackal (kinetic) - 0.0.5-0
+
+The packages in the `multi_jackal` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic multi_jackal` on `Mon, 19 Feb 2018 04:30:29 -0000`
+
+These packages were released:
+- `multi_jackal_base`
+- `multi_jackal_control`
+- `multi_jackal_description`
+- `multi_jackal_nav`
+- `multi_jackal_tutorials`
+
+Version of package(s) in repository `multi_jackal`:
+
+- upstream repository: https://github.com/NicksSimulationsROS/multi_jackal
+- release repository: https://github.com/NicksSimulationsROS/multi_jackal-release.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## multi_jackal (kinetic) - 0.0.4-0
 
 The packages in the `multi_jackal` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic multi_jackal` on `Tue, 13 Feb 2018 04:52:00 -0000`
